@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module metodosestaticos {
+	requires junit;
+}
